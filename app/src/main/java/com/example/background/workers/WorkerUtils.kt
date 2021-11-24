@@ -46,7 +46,7 @@ import java.io.FileOutputStream
 import java.io.IOException
 import java.util.UUID
 
-private const val TAG = "WorkerUtils"
+const val TAG = "WorkerUtils"
 
 /**
  * Create a Notification that is shown as a heads-up notification if possible.
